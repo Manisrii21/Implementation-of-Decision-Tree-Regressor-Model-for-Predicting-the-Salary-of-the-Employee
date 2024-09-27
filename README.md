@@ -94,8 +94,6 @@ dt.predict([[5,6]])
 
 
 
-
-
 ```
 
 ## Output:
