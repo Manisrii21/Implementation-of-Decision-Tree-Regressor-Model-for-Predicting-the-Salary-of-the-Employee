@@ -5,6 +5,7 @@
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
 ## Equipments Required:
+
 1. Hardware – PCs
    
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -84,6 +85,10 @@ r2
 
 dt.predict([[5,6]])
 ```
+
+
+
+
 
 
 
